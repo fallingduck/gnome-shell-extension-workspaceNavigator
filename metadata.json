@@ -1,10 +1,10 @@
 {
-    "shell-version": ["3.2", "3.4", "3.6", "3.8"],
-    "uuid": "workspaceNavigator@smotko.si",
+    "shell-version": ["3.2", "3.4", "3.6", "3.8", "3.10"],
+    "uuid": "workspace-navigator@fallingduck.net",
     "localedir": "/usr/share/locale",
     "original-author": "smotko.si",
     "name": "Workspace Navigator",
     "description": "Allow selection of workspaces with up and down arrow keys in overlay mode",
-    "url": "http://github.com/Smotko/gnome-shell-extension-workspaceNavigator",
-    "version": "1.7"
+    "url": "http://github.com/fallingduck/gnome-shell-extension-workspaceNavigator",
+    "version": "1.7.1"
 }
