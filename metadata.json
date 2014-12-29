@@ -1,5 +1,5 @@
 {
-    "shell-version": ["3.2", "3.4", "3.6", "3.8", "3.10"],
+    "shell-version": ["3.2", "3.4", "3.6", "3.8", "3.10", "3.12"],
     "uuid": "workspace-navigator@fallingduck.net",
     "localedir": "/usr/share/locale",
     "original-author": "smotko.si",
